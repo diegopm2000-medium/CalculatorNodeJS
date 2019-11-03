@@ -2,14 +2,7 @@
 
 __Travis-ci__: [![Travis](https://img.shields.io/travis/diegopm2000/CalculatorNodeJS.svg)]()
 
-__Sonarqube__:
-
-[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=CalculatorNodeJS)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
-[![Bugs](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=bugs)]() [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=vulnerabilities)]()
-[![Technical Debt](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
-[![Code Smells](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
-[![Coverage](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
-[![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
+__Sonarqube__: [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=bugs)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=sqale_index)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 
 __Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/diegopm2000/CalculatorNodeJS/badge.svg?branch=master)](https://coveralls.io/github/diegopm2000/CalculatorNodeJS?branch=master)
 
