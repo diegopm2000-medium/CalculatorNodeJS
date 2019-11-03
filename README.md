@@ -6,10 +6,10 @@ __Sonarqube__:
 
 [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=CalculatorNodeJS)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 [![Bugs](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=bugs)]() [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=vulnerabilities)]()
-[![Technical Debt](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
-[![Code Smells](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
-[![Coverage](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
-[![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
+[![Technical Debt](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
+[![Code Smells](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
+[![Coverage](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
+[![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 
 __Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/diegopm2000/CalculatorNodeJS/badge.svg?branch=master)](https://coveralls.io/github/diegopm2000/CalculatorNodeJS?branch=master)
 
