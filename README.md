@@ -4,7 +4,7 @@ __Travis-ci__: [![Travis](https://img.shields.io/travis/diegopm2000/CalculatorNo
 
 __Sonarqube__:
 
-[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=CalculatorNodeJS)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
+[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=CalculatorNodeJS)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 [![Bugs](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=bugs)]() [![Vulnerabilities](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=vulnerabilities)]()
 [![Technical Debt](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
 [![Code Smells](https://sonarcloud.io/api/badges/measure?key=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard/index/CalculatorNodeJS)
