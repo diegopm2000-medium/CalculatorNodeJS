@@ -4,7 +4,7 @@ __Travis-ci__: [![Travis](https://img.shields.io/travis/diegopm2000/CalculatorNo
 
 __Sonarcloud__: [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=bugs)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=sqale_index)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 
-<!-- __Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/diegopm2000/CalculatorNodeJS/badge.svg?branch=master)](https://coveralls.io/github/diegopm2000/CalculatorNodeJS?branch=master)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=CalculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard?id=CalculatorNodeJS)
 
 __Snyk__: [![Known Vulnerabilities](https://snyk.io/test/github/diegopm2000/calculatornodejs/badge.svg)](https://snyk.io/test/github/diegopm2000/calculatornodejs) -->
 
