@@ -6,7 +6,7 @@ __Sonarcloud__: [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/m
 
 __Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/diegopm2000-medium/CalculatorNodeJS/badge.svg?branch=develop)](https://coveralls.io/github/diegopm2000-medium/CalculatorNodeJS?branch=develop)
 
-__Snyk__: [![Known Vulnerabilities](https://snyk.io/test/github/diegopm2000/calculatornodejs/badge.svg)](https://snyk.io/test/github/diegopm2000/calculatornodejs) -->
+__Snyk__: [![Known Vulnerabilities](https://snyk.io/test/github/diegopm2000-medium/CalculatorNodeJS/badge.svg?targetFile=package.json)](https://snyk.io/test/github/diegopm2000-medium/CalculatorNodeJS?targetFile=package.json)
 
 Implementation of a Simple Calculator with the next operations:
 
